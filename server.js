@@ -1,6 +1,6 @@
 const express = require("express")
 let app = express();
-app.use(express.static('public'));
+app.use(express.static('Public'));
 let port = process.env.PORT;
 if (port == null || port == "") {
     port = 8000;
