@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mbfurlan15/choose-charmander/issues"
   },
-  "homepage": "https://github.com/mbfurlan15/choose-charmander#readme"
+  "homepage": "https://github.com/mbfurlan15/choose-charmander#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
