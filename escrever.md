@@ -29,8 +29,17 @@
 > Colaboradores:
 >* Triadores manuais de resíduos (triagem simplificada, sem classificação);
 >* Motorista alimentador da esteira transportadora;
-## Britagem
+## Beneficiamento
+>Atividade:
+>* Britagem e classificação dos resíduos CLasse A;
 
-- Britador de mandíbula ou de impacto (planta de beneficiamento de RCC)
+>Maquinário necessário:
+>* Britador de mandíbula ou de impacto (planta de beneficiamento de RCC);
+>* Peneiras de classificação;
+>* Esteiras transportadoras
+## Fiscalização e Controle
+>Atividade:
+>* Fiscalização e controle do produto processado.
 
-## Peneiramento
+>Colaboradores:
+>* Fiscal de qualidade do produto.
