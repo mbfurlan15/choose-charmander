@@ -1,27 +1,34 @@
 # Etapas do beneficiamento dos RCC
 ## Segregação
-- Depósito estabelecidos em pátio
+> Atividades:
+>* Recepção e segregação prévia dos resíduos em pátio específico;
+>   * Por predominancia da carga  (concreto, alvenaria, etc.); e
+>   * Por teor de impurezes apontado pela guarita.
 
--- Predominancia da carga  (concreto, alvenaria, etc.); e
+> Maquinários necessários
+>* [Retroescavadeira com pá para movimentação dos resíduos e rompedor hidráulico](https://andaluga.com.br/produto/retroescavadeira-rompedor/)
 
--- Teor de impurezes apontado pela guarita
-
-> retroescavadeira para movimentação dos resíduos e rompedor hidráulico [rompedor_hidra](https://andaluga.com.br/produto/retroescavadeira-rompedor/)
-
-> dois trabalhadores na inspeção e segregação prévia
-
-* Separação das madeiras em peças, papelão e materiais leves de grande volume
-
-> Auxílio do motorista da retro na quebra dos resíduos grandes
-
-
+> Colaboradores:
+>* Dois trabalhadores na inspeção e segregação prévia;
+>   * Realizar a separação das madeiras em peças, papelão e materiais leves de grande volume;
+>   * Auxíliar o motorista da retro na quebra dos resíduos Classe A de grandes proporções e no deslocamento dos materiais dentro da planta;
+>* Um motorista da maquinário pesado;
+>   * Responsável pela movimentação dos materiais e quebra das peças de grande proporções recebidas na ATT.
 ## Triagem
 
-- Eletroimã
+>Atividade:
+>* Separação dos materiais direcionados ao setor, através da triagem mecanizada de metais ferrosos (Eletroimã) e separação manual (Esteira de triagem por triadores);
 
-- Esteira de triagem para remoção manual
+> Maquinário necessário:
+>* Trator esteira / retroescavadeira __(pode ser o mesmo do setor anterior)__;
+>* Esteira transportadora;
+>* [Separador magnético](https://metaldetektor.com.br/br/eletroima?gclid=CjwKCAjw8df2BRA3EiwAvfZWaOsLaeQGQmgduIqVYVE3glDuIhsFuBU1z9lHrybMEDVOWgGzU6qfYBoCm8YQAvD_BwE) para remoção dos materiais ferrosos;
+>* Esteira de transporte para triagem dos resíduos;
+>* Funil de alimentação;
 
-
+> Colaboradores:
+>* Triadores manuais de resíduos (triagem simplificada, sem classificação);
+>* Motorista alimentador da esteira transportadora;
 ## Britagem
 
 - Britador de mandíbula ou de impacto (planta de beneficiamento de RCC)
