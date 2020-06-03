@@ -37,9 +37,9 @@
 >* Britador de mandíbula ou de impacto (planta de beneficiamento de RCC);
 >* Peneiras de classificação;
 >* Esteiras transportadoras
-## Fiscalização e Controle
+## Controle de qualidade
 >Atividade:
->* Fiscalização e controle do produto processado.
+>* Fiscalização e controle da qualidade do produto processado.
 
 >Colaboradores:
 >* Fiscal de qualidade do produto.
